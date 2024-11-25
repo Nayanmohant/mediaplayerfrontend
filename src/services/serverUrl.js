@@ -1,0 +1,1 @@
+export const serverUrl='https://mediaplayer-q62r.onrender.com'
